@@ -17,6 +17,7 @@ class DatabaseSeeder extends Seeder
             TicketTypeSeeder::class,
             TrainSeeder::class,
             TicketSeeder::class
+            
        ]);
     }
 }
